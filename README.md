@@ -1,6 +1,6 @@
 # On Liberty & Power
 
-Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.
+Reflections on law, authority, and the conditions of freedom.
 
 ## Site
 
@@ -41,17 +41,6 @@ Individual articles (`/YYYY/MM/DD-XX.json`):
 }
 ```
 
-## Writers
-
-Essays may be written in the voice of:
-
-- **Hamilton** - Systematic argument, economic reasoning
-- **Madison** - Constitutional philosophy, faction theory
-- **Adams** - Legal argument with moral weight
-- **Patrick Henry** - Urgent emotional appeals
-- **Paine** - Accessible prose, common voice, sharp wit
-- **Jefferson** - Elegant declarations, natural rights philosophy
-
 ## License
 
-Content © Sean FitzGerald. All rights reserved.
+Content © On Liberty & Power. All rights reserved.
