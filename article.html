@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="page-title">Essay - On Liberty &amp; Power</title>
+  <meta name="description" content="A political essay in the rhetorical tradition of 1750-1789 liberty writers.">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <style>
+    /* Article Detail Page Styles */
+    .article-detail {
+      max-width: 700px;
+      margin: var(--spacing-lg) auto;
+      padding: 0 var(--spacing-md);
+      position: relative;
+      z-index: 1;
+    }
+
+    .detail-header {
+      text-align: center;
+      margin-bottom: var(--spacing-lg);
+      padding-bottom: var(--spacing-lg);
+      border-bottom: 1px solid var(--parchment-aged);
+    }
+
+    .detail-meta {
+      font-size: 0.8rem;
+      color: var(--ink-faded);
+      margin-bottom: var(--spacing-sm);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .detail-meta .author {
+      color: var(--burgundy);
+    }
+
+    .detail-headline {
+      font-family: var(--font-display);
+      font-size: 2.2rem;
+      font-weight: 700;
+      color: var(--ink-black);
+      line-height: 1.25;
+      margin-bottom: var(--spacing-sm);
+    }
+
+    .detail-source {
+      font-size: 0.85rem;
+      color: var(--ink-faded);
+      font-style: italic;
+      margin-top: var(--spacing-md);
+    }
+
+    .detail-source a {
+      color: var(--burgundy);
+      text-decoration: none;
+    }
+
+    .detail-source a:hover {
+      text-decoration: underline;
+    }
+
+    /* Article Image */
+    .detail-image {
+      margin: var(--spacing-lg) 0;
+      text-align: center;
+    }
+
+    .detail-image img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid var(--parchment-aged);
+      filter: sepia(10%);
+    }
+
+    .detail-image figcaption {
+      font-size: 0.8rem;
+      color: var(--ink-faded);
+      font-style: italic;
+      margin-top: var(--spacing-xs);
+    }
+
+    /* Essay Content */
+    .essay-content {
+      font-size: 1.1rem;
+      line-height: 1.85;
+      color: var(--ink-brown);
+    }
+
+    .essay-content p {
+      margin-bottom: 1.5em;
+      text-align: justify;
+      text-indent: 1.5em;
+    }
+
+    .essay-content p:first-of-type {
+      text-indent: 0;
+    }
+
+    .essay-content p:first-of-type::first-letter {
+      font-family: var(--font-display);
+      font-size: 3.5rem;
+      float: left;
+      line-height: 0.8;
+      padding-right: 0.1em;
+      color: var(--burgundy);
+    }
+
+    .essay-content blockquote {
+      margin: var(--spacing-md) var(--spacing-lg);
+      padding-left: var(--spacing-md);
+      border-left: 2px solid var(--burgundy);
+      font-style: italic;
+      color: var(--ink-faded);
+    }
+
+    .essay-content em {
+      font-style: italic;
+    }
+
+    .essay-content strong {
+      font-weight: 600;
+    }
+
+    /* Signature/Closing */
+    .essay-signature {
+      margin-top: var(--spacing-xl);
+      padding-top: var(--spacing-lg);
+      border-top: 1px solid var(--parchment-aged);
+      text-align: right;
+      font-style: italic;
+      color: var(--ink-faded);
+    }
+
+    .essay-signature .pen-name {
+      font-weight: 600;
+      color: var(--ink-brown);
+    }
+
+    /* Back Link */
+    .back-link {
+      text-align: center;
+      margin: var(--spacing-xl) 0;
+    }
+
+    .back-link a {
+      display: inline-block;
+      background-color: var(--parchment-light);
+      color: var(--ink-brown);
+      padding: var(--spacing-sm) var(--spacing-md);
+      text-decoration: none;
+      border: 1px solid var(--parchment-aged);
+      font-size: 0.9rem;
+      transition: all 0.2s ease;
+    }
+
+    .back-link a:hover {
+      background-color: var(--burgundy);
+      color: var(--parchment-light);
+      border-color: var(--burgundy);
+    }
+
+    /* Ornament Divider */
+    .ornament-divider {
+      text-align: center;
+      margin: var(--spacing-lg) 0;
+      font-size: 1.5rem;
+      color: var(--burgundy);
+      opacity: 0.5;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .detail-headline {
+        font-size: 1.7rem;
+      }
+
+      .essay-content {
+        font-size: 1rem;
+      }
+
+      .essay-content p:first-of-type::first-letter {
+        font-size: 2.8rem;
+      }
+
+      .essay-content blockquote {
+        margin-left: var(--spacing-sm);
+        margin-right: var(--spacing-sm);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-border">
+    <header>
+      <div class="header-ornament">❧</div>
+      <h1 class="site-title"><a href="/" style="color: inherit; text-decoration: none;">On Liberty &amp; Power</a></h1>
+      <p class="site-subtitle">Essays on the Present State of Affairs</p>
+      <div class="header-ornament">❧</div>
+    </header>
+
+    <main class="article-detail" id="article-container">
+      <div class="loading">
+        ❦ Retrieving Essay ❦
+      </div>
+    </main>
+
+    <footer>
+      <div class="footer-ornament">☙</div>
+      <div class="footer-content">
+        <a href="/rss.xml">RSS Feed</a>
+        <span class="footer-divider">•</span>
+        <span>Published for the Edification of Free Citizens</span>
+      </div>
+      <div class="footer-ornament">❧</div>
+    </footer>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', loadArticle);
+
+    async function loadArticle() {
+      const container = document.getElementById('article-container');
+      
+      // Get date and sequence from URL params
+      const params = new URLSearchParams(window.location.search);
+      const date = params.get('date');
+      const seq = params.get('seq') || '01';
+      
+      if (!date) {
+        showError('No essay specified.');
+        return;
+      }
+      
+      try {
+        // Build the article JSON path: /YYYY/MM/DD-XX.json
+        const [year, month, day] = date.split('-');
+        const articlePath = `/${year}/${month}/${day}-${seq}.json`;
+        
+        const response = await fetch(articlePath);
+        if (!response.ok) {
+          throw new Error(`Essay not found: ${response.status}`);
+        }
+        
+        const article = await response.json();
+        renderArticle(article);
+        
+      } catch (error) {
+        console.error('Error loading article:', error);
+        showError('The requested essay could not be found.');
+      }
+    }
+
+    function renderArticle(article) {
+      const container = document.getElementById('article-container');
+      const date = formatDate(article.timestamp);
+      const author = article.author || 'Anonymous';
+      
+      // Update page title
+      document.getElementById('page-title').textContent = `${article.headline} - On Liberty & Power`;
+      
+      // Image HTML (if present)
+      const imageHtml = article.image ? `
+        <figure class="detail-image">
+          <img src="${escapeHtml(article.image)}" alt="">
+          ${article.imageCaption ? `<figcaption>${escapeHtml(article.imageCaption)}</figcaption>` : ''}
+        </figure>
+      ` : '';
+      
+      // Source HTML (if based on news article)
+      const sourceHtml = article.sourceUrl ? `
+        <p class="detail-source">
+          Occasioned by: <a href="${escapeHtml(article.sourceUrl)}" target="_blank" rel="noopener">${escapeHtml(article.source || 'the original report')}</a>
+        </p>
+      ` : '';
+      
+      // Signature (pen name or author)
+      const signatureHtml = article.penName ? `
+        <div class="essay-signature">
+          Your humble servant,<br>
+          <span class="pen-name">${escapeHtml(article.penName)}</span>
+        </div>
+      ` : `
+        <div class="essay-signature">
+          <span class="pen-name">— ${escapeHtml(author)}</span>
+        </div>
+      `;
+      
+      container.innerHTML = `
+        <article>
+          <div class="detail-header">
+            <div class="detail-meta">
+              <span class="date">${date}</span>
+              <span class="author"> • By ${escapeHtml(author)}</span>
+            </div>
+            <h1 class="detail-headline">${escapeHtml(article.headline)}</h1>
+            ${sourceHtml}
+          </div>
+          
+          ${imageHtml}
+          
+          <div class="essay-content">
+            ${article.content}
+          </div>
+          
+          ${signatureHtml}
+          
+          <div class="ornament-divider">❦</div>
+          
+          <div class="back-link">
+            <a href="/">◂ Return to Essays</a>
+          </div>
+        </article>
+      `;
+    }
+
+    function formatDate(timestamp) {
+      const date = new Date(timestamp);
+      const options = { 
+        weekday: 'long',
+        year: 'numeric', 
+        month: 'long', 
+        day: 'numeric'
+      };
+      return date.toLocaleDateString('en-US', options);
+    }
+
+    function escapeHtml(text) {
+      if (!text) return '';
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    function showError(message) {
+      const container = document.getElementById('article-container');
+      container.innerHTML = `
+        <div class="error">${escapeHtml(message)}</div>
+        <div class="back-link">
+          <a href="/">◂ Return to Essays</a>
+        </div>
+      `;
+    }
+  </script>
+</body>
+</html>

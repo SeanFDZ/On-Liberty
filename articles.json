@@ -1,0 +1,17 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "headline": "On the Accumulation of Executive Power",
+      "timestamp": "2025-12-17T12:00:00.000Z",
+      "author": "In the Style of Thomas Paine",
+      "preview": "When the executive branch of government begins to accumulate powers beyond those granted by the constitution, the citizens must take notice. For it is in the nature of power to expand, as water seeks the lowest ground...",
+      "image": "",
+      "source": "Sample Essay",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-17&seq=01"
+    }
+  ],
+  "lastUpdated": "2025-12-17T12:00:00.000Z",
+  "version": "1.0"
+}
