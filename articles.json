@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 2,
+      "headline": "On the Virtue of Testing Systems",
+      "timestamp": "2025-12-17T21:54:54.384Z",
+      "author": "Publius",
+      "preview": "It is a truth universally acknowledged among those who labor in the construction of mechanical systems, that no edifice of logic may be trusted until it has been subjected to rigorous trial.",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-17&seq=02"
+    },
+    {
       "id": 1,
       "headline": "On the Accumulation of Executive Power",
       "timestamp": "2025-12-17T12:00:00.000Z",
@@ -12,6 +23,6 @@
       "detailPage": "/article.html?date=2025-12-17&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-17T12:00:00.000Z",
+  "lastUpdated": "2025-12-17T21:57:46.994Z",
   "version": "1.0"
 }
