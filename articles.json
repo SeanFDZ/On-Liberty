@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 7,
+      "headline": "On the Matter of an $11bn weapons sale to Taiwan",
+      "timestamp": "2025-12-18T20:33:10.965Z",
+      "author": "In the Style of Thomas Jefferson",
+      "preview": "In the unfolding theatre of international relations, recent reports convey a significant transaction whereby the United States has resolved to furnish the Republic of Taiwan with armaments of consider...",
+      "image": "",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/news/articles/c7095g45p1po?at_medium=RSS&at_campaign=rss",
+      "detailPage": "/article.html?date=2025-12-18&seq=05"
+    },
+    {
       "id": 6,
       "headline": "On the Patience Required in Awaiting Publication",
       "timestamp": "2025-12-18T12:00:00Z",
@@ -67,6 +78,6 @@
       "detailPage": "/article.html?date=2025-12-17&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-18T17:00:07.233Z",
+  "lastUpdated": "2025-12-18T20:33:10.965Z",
   "version": "1.0"
 }
