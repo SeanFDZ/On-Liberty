@@ -1,20 +1,6 @@
 {
   "drafts": [
     {
-      "id": "draft_1766009461094",
-      "headline": "On the Patience Required in Awaiting Publication",
-      "content": "<p>There exists a peculiar virtue in the deliberate delay of publication, for it allows the author time for reflection and the reader time for anticipation.</p><p>This essay, composed in the present moment, shall not see the light of public view until the appointed hour has arrived, demonstrating thereby the mechanical patience of our automated systems.</p>",
-      "preview": "There exists a peculiar virtue in the deliberate delay of publication, for it allows the author time for reflection and the reader time for anticipation.",
-      "author": "Publius",
-      "penName": "PUBLIUS",
-      "publishAt": "2025-12-18T12:00:00Z",
-      "image": "",
-      "imageCaption": "",
-      "source": "",
-      "sourceUrl": "",
-      "submittedAt": "2025-12-17T22:11:00.901Z"
-    },
-    {
       "id": "draft_1766009623909",
       "headline": "On the Patience Required in Awaiting Publication",
       "content": "<p>There exists a peculiar virtue in the deliberate delay of publication, for it allows the author time for reflection and the reader time for anticipation.</p><p>This essay, composed in the present moment, shall not see the light of public view until the appointed hour has arrived, demonstrating thereby the mechanical patience of our automated systems.</p>",
@@ -57,5 +43,5 @@
       "submittedAt": "2025-12-17T22:18:16.427Z"
     }
   ],
-  "lastUpdated": "2025-12-17T22:18:16.629Z"
+  "lastUpdated": "2025-12-18T14:26:23.657Z"
 }
