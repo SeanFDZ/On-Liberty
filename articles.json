@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 3,
+      "headline": "On the Patience Required in Awaiting Publication",
+      "timestamp": "2025-12-18T12:00:00Z",
+      "author": "Publius",
+      "preview": "There exists a peculiar virtue in the deliberate delay of publication, for it allows the author time for reflection and the reader time for anticipation.",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-18&seq=01"
+    },
+    {
       "id": 2,
       "headline": "On the Virtue of Testing Systems",
       "timestamp": "2025-12-17T21:54:54.384Z",
@@ -23,6 +34,6 @@
       "detailPage": "/article.html?date=2025-12-17&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-17T21:57:46.994Z",
+  "lastUpdated": "2025-12-18T14:26:22.997Z",
   "version": "1.0"
 }
