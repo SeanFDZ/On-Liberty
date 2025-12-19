@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 11,
+      "headline": "When the Rules Break Down: Reflections on the Reported Killing of Survivors at Sea",
+      "timestamp": "2025-11-29T18:04:00.000Z",
+      "author": "Publius",
+      "preview": "A month ago, I wrote about why the rule of law is not optional in war.  Recent reporting that a U.S. strike may have intentionally killed survivors of a disabled boat as they clung to wreckage makes t...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-29&seq=01"
+    },
+    {
       "id": 10,
       "headline": "On the Matter of Scouting",
       "timestamp": "2025-11-25T19:16:00.000Z",
@@ -111,6 +122,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:56:14.055Z",
+  "lastUpdated": "2025-12-19T17:59:03.200Z",
   "version": "1.0"
 }
