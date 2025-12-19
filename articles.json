@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 5,
+      "headline": "What the Gettysburg Address Offers Us This Week",
+      "timestamp": "2025-11-19T19:22:00.000Z",
+      "author": "Publius",
+      "preview": "Lincoln spoke only 272 words, but they were designed for moments exactly like this one - moments when the nation feels uneasy, institutions look compromised, and public trust strains under the weight...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-19&seq=01"
+    },
+    {
       "id": 4,
       "headline": "When Citizens in Uniform Start Asking Questions",
       "timestamp": "2025-11-16T10:55:00.000Z",
@@ -45,6 +56,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:40:00.871Z",
+  "lastUpdated": "2025-12-19T17:43:04.481Z",
   "version": "1.0"
 }
