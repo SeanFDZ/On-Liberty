@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 14,
+      "headline": "Before the Shot Heard Round the World",
+      "timestamp": "2025-12-14T19:03:00.000Z",
+      "author": "Publius",
+      "preview": "A 250th Anniversary Reflection on Power, Law, and the Years 1763 to 1774  As the United States approaches the 250th anniversary of its founding, public memory naturally gravitates toward familiar mome...",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-14&seq=01"
+    },
+    {
       "id": 13,
       "headline": "Winning Without Firing a Shot",
       "timestamp": "2025-12-13T10:50:00.000Z",
@@ -144,6 +154,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T19:02:36.884Z",
+  "lastUpdated": "2025-12-19T19:47:47.668Z",
   "version": "1.0"
 }
