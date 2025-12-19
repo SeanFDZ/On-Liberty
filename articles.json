@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 3,
+      "headline": "When the Truth Becomes Uncomfortable: A Test of Our Democratic Character",
+      "timestamp": "2025-11-14T17:53:00.000Z",
+      "author": "Publius",
+      "preview": "In moments like this, when the release of long-demanded documents collides with political identity, we learn something important about the health of our democracy. Not about one party or another, but...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-14&seq=01"
+    },
+    {
       "id": 2,
       "headline": "What We Fought For: Reflection on Service and the Republic",
       "timestamp": "2025-11-08T13:43:00.000Z",
@@ -23,6 +34,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:35:57.769Z",
+  "lastUpdated": "2025-12-19T17:38:19.019Z",
   "version": "1.0"
 }
