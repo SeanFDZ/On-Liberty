@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 12,
+      "headline": "All People Are Created Equal",
+      "timestamp": "2025-12-04T19:25:00.000Z",
+      "author": "Publius",
+      "preview": "There are times in our history when fear or frustration tempts us to sort people into categories, “us” and “them.”  Times when whole groups become targets because of what they look like, where they co...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-04&seq=01"
+    },
+    {
       "id": 11,
       "headline": "When the Rules Break Down: Reflections on the Reported Killing of Survivors at Sea",
       "timestamp": "2025-11-29T18:04:00.000Z",
@@ -122,6 +133,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:59:03.200Z",
+  "lastUpdated": "2025-12-19T18:01:34.711Z",
   "version": "1.0"
 }
