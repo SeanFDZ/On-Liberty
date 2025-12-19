@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 2,
+      "headline": "What We Fought For: On Service and the Republic",
+      "timestamp": "2025-11-08T13:43:00.000Z",
+      "author": "Publius",
+      "preview": "This Veterans Day weekend, I’ve been thinking about a mission in Afghanistan in 2013.\r \r An Afghan member of parliament had been kidnapped and was being held hostage along with her children, the young...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-08&seq=01"
+    },
+    {
       "id": 1,
       "headline": "On the Matter of SNAP",
       "timestamp": "2025-11-06T18:11:00.000Z",
@@ -12,6 +23,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T15:34:04.392Z",
+  "lastUpdated": "2025-12-19T15:37:30.047Z",
   "version": "1.0"
 }
