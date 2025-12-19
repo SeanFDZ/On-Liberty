@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 7,
+      "headline": "Commentary:  What Scouts Understood",
+      "timestamp": "2025-11-22T16:03:00.000Z",
+      "author": "Publius",
+      "preview": "Shortly after the Russians invaded Ukraine, the scouts in my troop were deliberating how to spend the money they raised at a recent hot dog sale.  Some percentage to their summer camp account and some...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-22&seq=01"
+    },
+    {
       "id": 6,
       "headline": "The Constitution, the Military Oath, and the Limits of Presidential Power",
       "timestamp": "2025-11-20T13:34:00.000Z",
@@ -67,6 +78,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:46:56.634Z",
+  "lastUpdated": "2025-12-19T17:48:55.221Z",
   "version": "1.0"
 }
