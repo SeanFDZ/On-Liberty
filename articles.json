@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 4,
+      "headline": "What We Fought For: Reflection on Service and the Republic",
+      "timestamp": "2025-11-08T13:43:00.000Z",
+      "author": "Publius",
+      "preview": "This Veterans Day weekend, I’ve been thinking about a mission in Afghanistan in 2013.  An Afghan member of parliament had been kidnapped and was being held hostage along with her children, the younges...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-08&seq=02"
+    },
+    {
       "id": 3,
       "headline": "When the Truth Becomes Uncomfortable: A Test of Our Democratic Character",
       "timestamp": "2025-11-14T17:53:00.000Z",
@@ -34,6 +45,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T15:51:48.956Z",
+  "lastUpdated": "2025-12-19T15:59:39.123Z",
   "version": "1.0"
 }
