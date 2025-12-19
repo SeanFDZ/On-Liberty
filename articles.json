@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 9,
+      "headline": "When Foreign Policy Looks Like an Influence Operation",
+      "timestamp": "2025-11-25T18:53:00.000Z",
+      "author": "Publius",
+      "preview": "As someone who has spent years in national security and government service, the reporting that emerged this week should alarm every American, regardless of party.  Bloomberg and other outlets publishe...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-25&seq=01"
+    },
+    {
       "id": 8,
       "headline": "On the Cost of DOGE",
       "timestamp": "2025-11-24T20:04:00.000Z",
@@ -89,6 +100,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:50:06.810Z",
+  "lastUpdated": "2025-12-19T17:54:25.613Z",
   "version": "1.0"
 }
