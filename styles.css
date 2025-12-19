@@ -363,6 +363,30 @@ footer a:hover {
   font-style: italic;
 }
 
+/* Blockquotes */
+blockquote {
+  margin: var(--spacing-md) 0;
+  margin-left: var(--spacing-md);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-left: 3px solid var(--burgundy);
+  background-color: var(--parchment-light);
+  font-style: italic;
+  color: var(--ink-brown);
+}
+
+blockquote p {
+  margin: 0;
+  line-height: 1.8;
+}
+
+blockquote cite {
+  display: block;
+  margin-top: var(--spacing-sm);
+  font-size: 0.9em;
+  color: var(--ink-faded);
+  font-style: normal;
+}
+
 /* Empty State */
 .empty-state {
   text-align: center;
