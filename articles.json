@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 16,
+      "headline": "December 16, 1773 Was Not About Tea",
+      "timestamp": "2025-12-16T18:33:00.000Z",
+      "author": "Publius",
+      "preview": "The Boston Tea Party is often reduced to a costume drama: men in disguise, crates in the harbor, a symbolic act of rebellion that looks tidy in hindsight.  But the men who boarded those ships were not...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-16&seq=02"
+    },
+    {
       "id": 15,
       "headline": "December 16, 1773 Was Not About Tea",
       "timestamp": "2025-12-16T18:33:00.000Z",
@@ -166,6 +177,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T18:12:04.530Z",
+  "lastUpdated": "2025-12-19T18:20:36.488Z",
   "version": "1.0"
 }
