@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 13,
+      "headline": "Winning Without Firing a Shot",
+      "timestamp": "2025-12-13T10:50:00.000Z",
+      "author": "Publius",
+      "preview": "We are losing, not because an enemy defeated us, but because they no longer need to.  I grew up as a military kid on Strategic Air Command bases in the 1980s. I’ve spent more than 30 years studying U....",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-13&seq=01"
+    },
+    {
       "id": 12,
       "headline": "All People Are Created Equal",
       "timestamp": "2025-12-04T19:25:00.000Z",
@@ -133,6 +144,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T18:01:34.711Z",
+  "lastUpdated": "2025-12-19T18:05:15.429Z",
   "version": "1.0"
 }
