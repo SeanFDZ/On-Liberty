@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 10,
+      "headline": "On the Matter of Scouting",
+      "timestamp": "2025-11-25T19:16:00.000Z",
+      "author": "Publius",
+      "preview": "As a Scout overseas at Clark Air Base in the Philippines, Scouting was more than a hobby, it was stability, community, and a blueprint for what service should look like.  Those lessons carried me thro...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-25&seq=02"
+    },
+    {
       "id": 9,
       "headline": "When Foreign Policy Looks Like an Influence Operation",
       "timestamp": "2025-11-25T18:53:00.000Z",
@@ -100,6 +111,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:54:25.613Z",
+  "lastUpdated": "2025-12-19T17:56:14.055Z",
   "version": "1.0"
 }
