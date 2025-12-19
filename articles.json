@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 8,
+      "headline": "On the Cost of DOGE",
+      "timestamp": "2025-11-24T20:04:00.000Z",
+      "author": "Publius",
+      "preview": "I’ve spent a career making government more efficient.  At the Department of Defense, I built a system called WatchTower that eliminated a four-year case backlog in eight months, not by firing people o...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-24&seq=01"
+    },
+    {
       "id": 7,
       "headline": "Commentary:  What Scouts Understood",
       "timestamp": "2025-11-22T16:03:00.000Z",
@@ -78,6 +89,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:48:55.221Z",
+  "lastUpdated": "2025-12-19T17:50:06.810Z",
   "version": "1.0"
 }
