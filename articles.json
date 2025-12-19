@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 4,
+      "headline": "When Citizens in Uniform Start Asking Questions",
+      "timestamp": "2025-11-16T10:55:00.000Z",
+      "author": "Publius",
+      "preview": "Recent reporting about the growing unease among National Guard members is not merely a story about troop deployments.  It’s a window into a deeper problem that anyone who has worn a uniform should rec...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-16&seq=01"
+    },
+    {
       "id": 3,
       "headline": "When the Truth Becomes Uncomfortable: A Test of Our Democratic Character",
       "timestamp": "2025-11-14T17:53:00.000Z",
@@ -34,6 +45,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:38:19.019Z",
+  "lastUpdated": "2025-12-19T17:40:00.871Z",
   "version": "1.0"
 }
