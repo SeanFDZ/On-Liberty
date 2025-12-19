@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 6,
+      "headline": "The Constitution, the Military Oath, and the Limits of Presidential Power",
+      "timestamp": "2025-11-20T13:34:00.000Z",
+      "author": "Publius",
+      "preview": "The recent claim that members of Congress committed “seditious behavior, punishable by death” for reminding service members to refuse unlawful orders deserves to be evaluated against the actual law, n...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-11-20&seq=01"
+    },
+    {
       "id": 5,
       "headline": "What the Gettysburg Address Offers Us This Week",
       "timestamp": "2025-11-19T19:22:00.000Z",
@@ -56,6 +67,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-19T17:43:04.481Z",
+  "lastUpdated": "2025-12-19T17:46:56.634Z",
   "version": "1.0"
 }
