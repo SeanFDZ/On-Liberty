@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 15,
+      "headline": "December 16, 1773 Was Not About Tea",
+      "timestamp": "2025-12-16T18:33:00.000Z",
+      "author": "Publius",
+      "preview": "The Boston Tea Party is often reduced to a costume drama: men in disguise, crates in the harbor, a symbolic act of rebellion that looks tidy in hindsight.  But the men who boarded those ships were not...",
+      "image": "images/2025/12/1766196758947.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-16&seq=01"
+    },
+    {
       "id": 14,
       "headline": "Before the Shot Heard Round the World",
       "timestamp": "2025-12-14T19:03:00.000Z",
@@ -155,6 +166,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-20T02:09:26.328Z",
+  "lastUpdated": "2025-12-20T02:12:40.560Z",
   "version": "1.0"
 }
