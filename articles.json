@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 16,
+      "headline": "A Republic That Rations Care",
+      "timestamp": "2025-12-20T20:07:00.000Z",
+      "author": "Publius",
+      "preview": "“Wherefore, security being the true design and end of government, it unanswerably follows that whatever form thereof appears most likely to ensure it to us, with the least expense and greatest benefit...",
+      "image": "images/2025/12/1766282872332.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-20&seq=01"
+    },
+    {
       "id": 15,
       "headline": "December 16, 1773 Was Not About Tea",
       "timestamp": "2025-12-16T18:33:00.000Z",
@@ -166,6 +177,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-20T02:12:40.560Z",
+  "lastUpdated": "2025-12-21T02:07:57.802Z",
   "version": "1.0"
 }
