@@ -29,14 +29,10 @@ Individual articles (`/YYYY/MM/DD-XX.json`):
 {
   "headline": "Essay Title",
   "timestamp": "2025-12-17T12:00:00.000Z",
-  "author": "In the Style of Thomas Paine",
-  "penName": "COMMON SENSE",
   "preview": "First paragraph preview for index page...",
   "content": "<p>Full essay content in HTML...</p>",
   "image": "/images/illustration.jpg",
   "imageCaption": "Optional caption",
-  "source": "BBC",
-  "sourceUrl": "https://...",
   "detailPage": "/article.html?date=2025-12-17&seq=01"
 }
 ```
