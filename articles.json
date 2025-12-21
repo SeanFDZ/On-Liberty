@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 17,
+      "headline": "When the First Branch Abdicates",
+      "timestamp": "2025-12-21T15:11:40.092Z",
+      "author": "Publius",
+      "preview": "I spent years in government service.  Not in Congress, but near enough to watch how institutions work when they're healthy and how they fail when something fundamental shifts.  What former members are...",
+      "image": "images/2025/12/1766329899072.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-21&seq=01"
+    },
+    {
       "id": 16,
       "headline": "A Republic That Rations Care",
       "timestamp": "2025-12-20T20:07:00.000Z",
@@ -177,6 +188,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-21T02:07:57.802Z",
+  "lastUpdated": "2025-12-21T15:11:41.068Z",
   "version": "1.0"
 }
