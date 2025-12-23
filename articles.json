@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 22,
+      "headline": "On the Transfer of Men Into Torture",
+      "timestamp": "2025-12-23T16:44:47.679Z",
+      "author": "Publius",
+      "preview": "There are moments when a republic crosses a line so old and so clearly drawn that no elaborate theory is required to recognize it.  One need not argue policy outcomes, electoral mandates, or partisan...",
+      "image": "images/2025/12/1766508286029.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-23&seq=04"
+    },
+    {
       "id": 21,
       "headline": "On Due Process in an Age of Urgency",
       "timestamp": "2025-12-23T12:39:49.860Z",
@@ -232,6 +243,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-23T12:39:50.906Z",
+  "lastUpdated": "2025-12-23T16:44:48.566Z",
   "version": "1.0"
 }
