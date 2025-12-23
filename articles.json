@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 19,
+      "headline": "When a Republic Shields Those Who Prey Upon Its Children",
+      "timestamp": "2025-12-21T12:00:00.000Z",
+      "author": "Publius",
+      "preview": "When a government hides the truth about crimes against children, it ceases to be a guardian of justice and becomes instead a custodian of guilt.  We are told, yet again, to be patient.   We are told t...",
+      "image": "images/2025/12/1766451805398.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-21&seq=03"
+    },
+    {
       "id": 18,
       "headline": "When a Republic Shields Those Who Prey Upon Its Children",
       "timestamp": "2025-12-21T12:00:00.000Z",
@@ -199,6 +210,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-21T16:13:33.554Z",
+  "lastUpdated": "2025-12-23T01:03:27.690Z",
   "version": "1.0"
 }
