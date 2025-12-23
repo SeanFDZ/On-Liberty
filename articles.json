@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 20,
+      "headline": "Who will Stop You?  On Power, Pretense, and the State of the Republic",
+      "timestamp": "2025-12-23T01:58:55.988Z",
+      "author": "Publius",
+      "preview": "There are moments when the question before a Republic is no longer one of legality, but of recognition.  This is one of them.  A newly released recording, first reported by the Atlanta Journal-Constit...",
+      "image": "images/2025/12/1766455134661.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-23&seq=02"
+    },
+    {
       "id": 19,
       "headline": "Of Power Unbound by Law",
       "timestamp": "2025-12-23T01:13:03.678Z",
@@ -210,6 +221,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-23T01:13:04.779Z",
+  "lastUpdated": "2025-12-23T01:58:57.181Z",
   "version": "1.0"
 }
