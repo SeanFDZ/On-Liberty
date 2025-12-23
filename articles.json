@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 21,
+      "headline": "On Due Process in an Age of Urgency",
+      "timestamp": "2025-12-23T12:39:49.860Z",
+      "author": "Publius",
+      "preview": "I served in government long enough to understand how things work when authorities want something done quickly.  There are protocols.  There are reviews.  There are chains of command designed to ensure...",
+      "image": "images/2025/12/1766493588329.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-23&seq=03"
+    },
+    {
       "id": 20,
       "headline": "Who will Stop You?  On Power, Pretense, and the State of the Republic",
       "timestamp": "2025-12-23T01:58:55.988Z",
@@ -221,6 +232,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-23T01:58:57.181Z",
+  "lastUpdated": "2025-12-23T12:39:50.906Z",
   "version": "1.0"
 }
