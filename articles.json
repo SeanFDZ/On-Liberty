@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 20,
+      "headline": "Of Power Unbound by Law",
+      "timestamp": "2025-12-23T01:13:03.678Z",
+      "author": "Publius",
+      "preview": "When a government no longer feels itself bound by the law in the open light of day, the question before the people is no longer who among the accused is guilty, but whether the Republic yet endures....",
+      "image": "images/2025/12/1766452381740.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2025-12-23&seq=01"
+    },
+    {
       "id": 19,
       "headline": "When a Republic Shields Those Who Prey Upon Its Children",
       "timestamp": "2025-12-21T12:00:00.000Z",
@@ -210,6 +221,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-23T01:03:27.690Z",
+  "lastUpdated": "2025-12-23T01:13:04.779Z",
   "version": "1.0"
 }
