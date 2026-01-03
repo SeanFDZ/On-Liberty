@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 23,
+      "headline": "When Invasion Becomes Administrative",
+      "timestamp": "2026-01-03T15:40:26.778Z",
+      "author": "Publius",
+      "preview": "“Wherever law ends, tyranny begins.” - John Locke, Second Treatise of Government, 1689  An invasion was announced as if it were a scheduling update.  In the early hours of January 3, 2026, the Preside...",
+      "image": "images/2026/01/1767454825415.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-03&seq=01"
+    },
+    {
       "id": 22,
       "headline": "On the Transfer of Men Into Torture",
       "timestamp": "2025-12-23T16:44:47.679Z",
@@ -243,6 +254,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2025-12-23T16:44:48.566Z",
+  "lastUpdated": "2026-01-03T15:40:27.887Z",
   "version": "1.0"
 }
