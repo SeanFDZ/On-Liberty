@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 25,
+      "headline": "250 Years:  An Anniversary Without a Republic",
+      "timestamp": "2026-01-06T12:25:53.740Z",
+      "author": "Publius",
+      "preview": "Five years ago, a crowd forced its way into the seat of American legislative power at the United States Capitol.  The immediate debate fractured along familiar lines.  Was it a riot or an insurrection...",
+      "image": "images/2026/01/1767702352174.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-06&seq=01"
+    },
+    {
       "id": 24,
       "headline": "We Are Going To Run The Country",
       "timestamp": "2026-01-04T17:38:34.402Z",
@@ -265,6 +276,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-04T17:38:35.374Z",
+  "lastUpdated": "2026-01-06T12:25:54.866Z",
   "version": "1.0"
 }
