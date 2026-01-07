@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 27,
+      "headline": "When Alliance Becomes Threat",
+      "timestamp": "2026-01-07T12:59:33.673Z",
+      "author": "Publius",
+      "preview": "I took an oath to defend the Constitution against all enemies, foreign and domestic. I never imagined that oath might require defending our NATO allies from us.  The White House has confirmed that the...",
+      "image": "images/2026/01/1767790772555.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-07&seq=01"
+    },
+    {
       "id": 26,
       "headline": "On the Matter of Courage",
       "timestamp": "2026-01-06T08:00:00.000Z",
@@ -287,6 +298,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-07T12:57:29.739Z",
+  "lastUpdated": "2026-01-07T12:59:34.805Z",
   "version": "1.0"
 }
