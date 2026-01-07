@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 26,
+      "headline": "On the Matter of Courage",
+      "timestamp": "2026-01-06T08:00:00.000Z",
+      "author": "Publius",
+      "preview": "Officer Eugene Goodman’s actions on January 6, 2021, deliberately drawing a violent mob away from the Senate chamber and toward a safer route, almost certainly saved lives.  He acted under pressure, w...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-06&seq=02"
+    },
+    {
       "id": 25,
       "headline": "250 Years:  An Anniversary Without a Republic",
       "timestamp": "2026-01-06T12:25:53.740Z",
@@ -276,6 +287,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-06T12:25:54.866Z",
+  "lastUpdated": "2026-01-07T12:57:29.739Z",
   "version": "1.0"
 }
