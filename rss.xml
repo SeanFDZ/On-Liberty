@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 09 Jan 2026 01:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 02:00:06 GMT</lastBuildDate>
+    <item>
+      <title>The Bullets Don’t Match the Story</title>
+      <link>https://onliberty.press/article.html?date=2026-01-08&amp;seq=01</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-08&amp;seq=01</guid>
+      <pubDate>Thu, 08 Jan 2026 18:00:00 GMT</pubDate>
+      <description>“Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.” -John Adams, Argument in Defense of t...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>When Alliance Becomes Threat</title>
       <link>https://onliberty.press/article.html?date=2026-01-07&amp;seq=01</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-11-25&amp;seq=01</guid>
       <pubDate>Tue, 25 Nov 2025 18:53:00 GMT</pubDate>
       <description>As someone who has spent years in national security and government service, the reporting that emerged this week should alarm every American, regardless of party.  Bloomberg and other outlets publishe...</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>On the Cost of DOGE</title>
-      <link>https://onliberty.press/article.html?date=2025-11-24&amp;seq=01</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-11-24&amp;seq=01</guid>
-      <pubDate>Mon, 24 Nov 2025 20:04:00 GMT</pubDate>
-      <description>I’ve spent a career making government more efficient.  At the Department of Defense, I built a system called WatchTower that eliminated a four-year case backlog in eight months, not by firing people o...</description>
       <author>Publius</author>
     </item>
   </channel>
