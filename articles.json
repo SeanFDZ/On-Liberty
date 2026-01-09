@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 28,
+      "headline": "The Bullets Don’t Match the Story",
+      "timestamp": "2026-01-08T18:00:00.000Z",
+      "author": "Publius",
+      "preview": "“Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.” -John Adams, Argument in Defense of t...",
+      "image": "images/2026/01/1767920809665.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-08&seq=01"
+    },
+    {
       "id": 27,
       "headline": "When Alliance Becomes Threat",
       "timestamp": "2026-01-07T12:59:33.673Z",
@@ -298,6 +309,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-07T12:59:34.805Z",
+  "lastUpdated": "2026-01-09T01:06:51.668Z",
   "version": "1.0"
 }
