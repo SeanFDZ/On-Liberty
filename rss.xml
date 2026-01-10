@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 10 Jan 2026 19:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 20:00:06 GMT</lastBuildDate>
+    <item>
+      <title>Before We Decided This Was Acceptable: From the Boston Trials to Absolute Immunity</title>
+      <link>https://onliberty.press/article.html?date=2026-01-10&amp;seq=01</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-10&amp;seq=01</guid>
+      <pubDate>Sat, 10 Jan 2026 19:38:42 GMT</pubDate>
+      <description>What Changed in the American Tolerance for Power?  In the decade before the Revolution, five deaths were treated as a political earthquake, not because of the body count, but because of the principle....</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>The Bullets Don’t Match the Story</title>
       <link>https://onliberty.press/article.html?date=2026-01-08&amp;seq=01</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-11-25&amp;seq=02</guid>
       <pubDate>Tue, 25 Nov 2025 19:16:00 GMT</pubDate>
       <description>As a Scout overseas at Clark Air Base in the Philippines, Scouting was more than a hobby, it was stability, community, and a blueprint for what service should look like.  Those lessons carried me thro...</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>When Foreign Policy Looks Like an Influence Operation</title>
-      <link>https://onliberty.press/article.html?date=2025-11-25&amp;seq=01</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-11-25&amp;seq=01</guid>
-      <pubDate>Tue, 25 Nov 2025 18:53:00 GMT</pubDate>
-      <description>As someone who has spent years in national security and government service, the reporting that emerged this week should alarm every American, regardless of party.  Bloomberg and other outlets publishe...</description>
       <author>Publius</author>
     </item>
   </channel>
