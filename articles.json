@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 29,
+      "headline": "Before We Decided This Was Acceptable: From the Boston Trials to Absolute Immunity",
+      "timestamp": "2026-01-10T19:38:42.648Z",
+      "author": "Publius",
+      "preview": "What Changed in the American Tolerance for Power?  In the decade before the Revolution, five deaths were treated as a political earthquake, not because of the body count, but because of the principle....",
+      "image": "images/2026/01/1768073921942.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-10&seq=01"
+    },
+    {
       "id": 28,
       "headline": "The Bullets Don’t Match the Story",
       "timestamp": "2026-01-08T18:00:00.000Z",
@@ -309,6 +320,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-09T01:06:51.668Z",
+  "lastUpdated": "2026-01-10T19:38:43.624Z",
   "version": "1.0"
 }
