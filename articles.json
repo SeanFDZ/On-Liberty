@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 30,
+      "headline": "On the Matter of the 4th Amendment and Door to Door Searches",
+      "timestamp": "2026-01-12T01:16:49.177Z",
+      "author": "Publius",
+      "preview": "Writs of Assistance  Before the American Revolution, British authorities relied on writs of assistance - open-ended search authorities that allowed officers to move house to house in search of contrab...",
+      "image": "images/2026/01/1768180607748.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-12&seq=01"
+    },
+    {
       "id": 29,
       "headline": "Before We Decided This Was Acceptable: From the Boston Trials to Absolute Immunity",
       "timestamp": "2026-01-10T19:38:42.648Z",
@@ -320,6 +331,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-10T19:38:43.624Z",
+  "lastUpdated": "2026-01-12T01:16:50.222Z",
   "version": "1.0"
 }
