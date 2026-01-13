@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 33,
+      "headline": "When Federal Authority Becomes Federal Occupation",
+      "timestamp": "2026-01-13T11:32:00.430Z",
+      "author": "Publius",
+      "preview": "I wore the uniform for twenty years. I know what operational authority looks like, and I know what occupation looks like.  What is happening in Minneapolis is not law enforcement. It is occupation.  M...",
+      "image": "",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/01/12/nx-s1-5675315/minnesota-sues-to-block-trump-immigration-crackdown",
+      "detailPage": "/article.html?date=2026-01-13&seq=02"
+    },
+    {
       "id": 32,
       "headline": "A Republic Is Not a Character Test",
       "timestamp": "2026-01-13T07:57:00.000Z",
@@ -353,6 +364,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-13T08:00:10.450Z",
+  "lastUpdated": "2026-01-13T11:32:00.430Z",
   "version": "1.0"
 }
