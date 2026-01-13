@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 31,
+      "headline": "When Authority Forgets Its Limits",
+      "timestamp": "2026-01-12T19:55:00.000Z",
+      "author": "Publius",
+      "preview": "250 years ago, in January of 1776, Thomas Paine wrote words that unsettled an empire not because they were radical, but because they were clear.  He did not argue first about taxes or trade. He argued...",
+      "image": "images/2026/01/1768269372791.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-12&seq=02"
+    },
+    {
       "id": 30,
       "headline": "On the Matter of the 4th Amendment and Door to Door Searches",
       "timestamp": "2026-01-12T01:16:49.177Z",
@@ -331,6 +342,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-12T01:16:50.222Z",
+  "lastUpdated": "2026-01-13T02:15:42.600Z",
   "version": "1.0"
 }
