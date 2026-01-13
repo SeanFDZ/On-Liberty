@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Jan 2026 08:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 09:00:06 GMT</lastBuildDate>
+    <item>
+      <title>A Republic Is Not a Character Test</title>
+      <link>https://onliberty.press/article.html?date=2026-01-13&amp;seq=01</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-13&amp;seq=01</guid>
+      <pubDate>Tue, 13 Jan 2026 07:57:00 GMT</pubDate>
+      <description>One of the most enduring political myths is that good outcomes depend on good people.  It is comforting.  It absolves systems of responsibility.  If things go wrong, we can blame character.  If things...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>When Authority Forgets Its Limits</title>
       <link>https://onliberty.press/article.html?date=2026-01-12&amp;seq=02</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-12-13&amp;seq=01</guid>
       <pubDate>Sat, 13 Dec 2025 10:50:00 GMT</pubDate>
       <description>We are losing, not because an enemy defeated us, but because they no longer need to.  I grew up as a military kid on Strategic Air Command bases in the 1980s. I’ve spent more than 30 years studying U....</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>All People Are Created Equal</title>
-      <link>https://onliberty.press/article.html?date=2025-12-04&amp;seq=01</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-12-04&amp;seq=01</guid>
-      <pubDate>Thu, 04 Dec 2025 19:25:00 GMT</pubDate>
-      <description>There are times in our history when fear or frustration tempts us to sort people into categories, “us” and “them.”  Times when whole groups become targets because of what they look like, where they co...</description>
       <author>Publius</author>
     </item>
   </channel>
