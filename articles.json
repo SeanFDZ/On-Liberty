@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 32,
+      "headline": "A Republic Is Not a Character Test",
+      "timestamp": "2026-01-13T07:57:00.000Z",
+      "author": "Publius",
+      "preview": "One of the most enduring political myths is that good outcomes depend on good people.  It is comforting.  It absolves systems of responsibility.  If things go wrong, we can blame character.  If things...",
+      "image": "images/2026/01/1768269598287.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-13&seq=01"
+    },
+    {
       "id": 31,
       "headline": "When Authority Forgets Its Limits",
       "timestamp": "2026-01-12T19:55:00.000Z",
@@ -342,6 +353,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-13T02:15:42.600Z",
+  "lastUpdated": "2026-01-13T08:00:10.450Z",
   "version": "1.0"
 }
