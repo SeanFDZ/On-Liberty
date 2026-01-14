@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 34,
+      "headline": "Emergency Is the Oldest Excuse",
+      "timestamp": "2026-01-14T08:01:00.000Z",
+      "author": "Publius",
+      "preview": "Every expansion of unchecked power begins the same way.  Not with permanence. With urgency.  In Common Sense, Thomas Paine warned that tyranny rarely announces itself as tyranny.  It arrives instead a...",
+      "image": "images/2026/01/1768269716522.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-14&seq=01"
+    },
+    {
       "id": 33,
       "headline": "When Federal Authority Becomes Federal Occupation",
       "timestamp": "2026-01-13T11:32:00.430Z",
@@ -364,6 +375,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-13T11:32:00.430Z",
+  "lastUpdated": "2026-01-14T09:00:10.537Z",
   "version": "1.0"
 }
