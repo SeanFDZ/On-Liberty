@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 37,
+      "headline": "The Perimeter: 1 Where the Crime Isn't",
+      "timestamp": "2026-01-15T19:13:46.514Z",
+      "author": "Publius",
+      "preview": "Why Minnesota Became a Federal Target Despite Lower Immigration and Immigrant Crime Rates  For months, the public justification for intensified federal immigration enforcement has been familiar: crime...",
+      "image": "images/2026/01/1768504424762.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-15&seq=03"
+    },
+    {
       "id": 36,
       "headline": "The Perimeter",
       "timestamp": "2026-01-15T19:08:14.174Z",
@@ -397,6 +408,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-15T19:08:16.314Z",
+  "lastUpdated": "2026-01-15T19:13:47.625Z",
   "version": "1.0"
 }
