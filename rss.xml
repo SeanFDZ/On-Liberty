@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Jan 2026 09:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 10:00:06 GMT</lastBuildDate>
+    <item>
+      <title>Consent Is Not a Blank Check</title>
+      <link>https://onliberty.press/article.html?date=2026-01-15&amp;seq=01</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-15&amp;seq=01</guid>
+      <pubDate>Thu, 15 Jan 2026 08:04:00 GMT</pubDate>
+      <description>One of the most convenient misunderstandings in politics is the belief that winning power is the same as being authorized to use it without limit.  Thomas Paine rejected that idea entirely.  In Common...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>Emergency Is the Oldest Excuse</title>
       <link>https://onliberty.press/article.html?date=2026-01-14&amp;seq=01</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-12-20&amp;seq=01</guid>
       <pubDate>Sat, 20 Dec 2025 20:07:00 GMT</pubDate>
       <description>“Wherefore, security being the true design and end of government, it unanswerably follows that whatever form thereof appears most likely to ensure it to us, with the least expense and greatest benefit...</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>December 16, 1773 Was Not About Tea</title>
-      <link>https://onliberty.press/article.html?date=2025-12-16&amp;seq=01</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-12-16&amp;seq=01</guid>
-      <pubDate>Tue, 16 Dec 2025 18:33:00 GMT</pubDate>
-      <description>The Boston Tea Party is often reduced to a costume drama: men in disguise, crates in the harbor, a symbolic act of rebellion that looks tidy in hindsight.  But the men who boarded those ships were not...</description>
       <author>Publius</author>
     </item>
   </channel>
