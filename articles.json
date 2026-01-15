@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 36,
+      "headline": "The Perimeter",
+      "timestamp": "2026-01-15T19:08:14.174Z",
+      "author": "Publius",
+      "preview": "A series on power, resistance, and the narrowing edge of liberty  This series begins from a simple observation.  Power does not announce its limits.  It discovers them.  In a constitutional republic,...",
+      "image": "images/2026/01/1768504093452.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-15&seq=02"
+    },
+    {
       "id": 35,
       "headline": "Consent Is Not a Blank Check",
       "timestamp": "2026-01-15T08:04:00.000Z",
@@ -386,6 +397,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-15T09:00:10.403Z",
+  "lastUpdated": "2026-01-15T19:08:16.314Z",
   "version": "1.0"
 }
