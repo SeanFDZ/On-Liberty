@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 35,
+      "headline": "Consent Is Not a Blank Check",
+      "timestamp": "2026-01-15T08:04:00.000Z",
+      "author": "Publius",
+      "preview": "One of the most convenient misunderstandings in politics is the belief that winning power is the same as being authorized to use it without limit.  Thomas Paine rejected that idea entirely.  In Common...",
+      "image": "images/2026/01/1768269871372.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-15&seq=01"
+    },
+    {
       "id": 34,
       "headline": "Emergency Is the Oldest Excuse",
       "timestamp": "2026-01-14T08:01:00.000Z",
@@ -375,6 +386,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-14T09:00:10.537Z",
+  "lastUpdated": "2026-01-15T09:00:10.403Z",
   "version": "1.0"
 }
