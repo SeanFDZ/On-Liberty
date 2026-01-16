@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 Jan 2026 09:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 10:00:06 GMT</lastBuildDate>
+    <item>
+      <title>The Law Must Bind Power, or It Binds No One</title>
+      <link>https://onliberty.press/article.html?date=2026-01-16&amp;seq=01</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-16&amp;seq=01</guid>
+      <pubDate>Fri, 16 Jan 2026 08:05:00 GMT</pubDate>
+      <description>One of Thomas Paine&apos;s clearest insights was also one of his most unsettling: laws that restrain only the people are not laws at all.  They are commands.  In Common Sense, Paine argued that the legitim...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>The Perimeter: 1 Where the Crime Isn&apos;t</title>
       <link>https://onliberty.press/article.html?date=2026-01-15&amp;seq=03</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-12-23&amp;seq=01</guid>
       <pubDate>Tue, 23 Dec 2025 01:13:03 GMT</pubDate>
       <description>When a government no longer feels itself bound by the law in the open light of day, the question before the people is no longer who among the accused is guilty, but whether the Republic yet endures....</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>When a Republic Shields Those Who Prey Upon Its Children</title>
-      <link>https://onliberty.press/article.html?date=2025-12-21&amp;seq=02</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2025-12-21&amp;seq=02</guid>
-      <pubDate>Sun, 21 Dec 2025 12:00:00 GMT</pubDate>
-      <description>When a government hides the truth about crimes against children, it ceases to be a guardian of justice and becomes instead a custodian of guilt.  We are told, yet again, to be patient.   We are told t...</description>
       <author>Publius</author>
     </item>
   </channel>
