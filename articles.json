@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 39,
+      "headline": "The Perimeter: 2 Selective Enforcement",
+      "timestamp": "2026-01-16T13:15:00.000Z",
+      "author": "Publius",
+      "preview": "Why Federal Power Moves Toward Resistance, Not Risk  If immigration enforcement were guided by risk, it would follow predictable paths.  It would concentrate where undocumented populations are largest...",
+      "image": "images/2026/01/1768504562284.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-16&seq=02"
+    },
+    {
       "id": 38,
       "headline": "The Law Must Bind Power, or It Binds No One",
       "timestamp": "2026-01-16T08:05:00.000Z",
@@ -419,6 +430,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-16T09:00:10.627Z",
+  "lastUpdated": "2026-01-16T14:00:10.435Z",
   "version": "1.0"
 }
