@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 38,
+      "headline": "The Law Must Bind Power, or It Binds No One",
+      "timestamp": "2026-01-16T08:05:00.000Z",
+      "author": "Publius",
+      "preview": "One of Thomas Paine's clearest insights was also one of his most unsettling: laws that restrain only the people are not laws at all.  They are commands.  In Common Sense, Paine argued that the legitim...",
+      "image": "images/2026/01/1768269963803.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-16&seq=01"
+    },
+    {
       "id": 37,
       "headline": "The Perimeter: 1 Where the Crime Isn't",
       "timestamp": "2026-01-15T19:13:46.514Z",
@@ -408,6 +419,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-15T19:13:47.625Z",
+  "lastUpdated": "2026-01-16T09:00:10.627Z",
   "version": "1.0"
 }
