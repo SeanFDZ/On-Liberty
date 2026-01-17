@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 41,
+      "headline": "When Power Turns Its Weapons Inward",
+      "timestamp": "2026-01-17T08:07:00.000Z",
+      "author": "Publius",
+      "preview": "Thomas Paine understood something that republics often forget: governments arm themselves against enemies, not citizens.  In Common Sense, Paine warned that the use of force within a society is not a...",
+      "image": "images/2026/01/1768270046696.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-17&seq=02"
+    },
+    {
       "id": 40,
       "headline": "When Speech Becomes the Crime",
       "timestamp": "2026-01-17T01:27:10.323Z",
@@ -441,6 +452,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-17T01:27:11.383Z",
+  "lastUpdated": "2026-01-17T09:00:10.536Z",
   "version": "1.0"
 }
