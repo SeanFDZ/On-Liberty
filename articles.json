@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 42,
+      "headline": "The Perimeter: 3 From Protest to Threat",
+      "timestamp": "2026-01-17T13:16:00.000Z",
+      "author": "Publius",
+      "preview": "How Peaceful Dissent Became \"Domestic Terrorism\"  Public power rarely announces itself all at once.  It arrives in stages, first in language, then in posture, and only later in action.  The most impor...",
+      "image": "images/2026/01/1768504651941.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-17&seq=03"
+    },
+    {
       "id": 41,
       "headline": "When Power Turns Its Weapons Inward",
       "timestamp": "2026-01-17T08:07:00.000Z",
@@ -452,6 +463,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-17T09:00:10.536Z",
+  "lastUpdated": "2026-01-17T14:00:10.275Z",
   "version": "1.0"
 }
