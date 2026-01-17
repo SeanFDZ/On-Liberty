@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 40,
+      "headline": "When Speech Becomes the Crime",
+      "timestamp": "2026-01-17T01:27:10.323Z",
+      "author": "Publius",
+      "preview": "There are moments when constitutional questions do not arrive as abstractions.  They arrive as subpoenas.  The Justice Department is investigating a sitting governor and a mayor.  No allegation of bri...",
+      "image": "images/2026/01/1768613229686.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-17&seq=01"
+    },
+    {
       "id": 39,
       "headline": "The Perimeter: 2 Selective Enforcement",
       "timestamp": "2026-01-16T13:15:00.000Z",
@@ -430,6 +441,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-16T14:00:10.435Z",
+  "lastUpdated": "2026-01-17T01:27:11.383Z",
   "version": "1.0"
 }
