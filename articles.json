@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 43,
+      "headline": "When Coercion Becomes Policy",
+      "timestamp": "2026-01-17T14:57:35.418Z",
+      "author": "Publius",
+      "preview": "I served in government long enough to know how power moves, how it tests boundaries, how it transforms means into ends. What we're witnessing in Minneapolis isn't merely federal immigration enforcemen...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-17&seq=04"
+    },
+    {
       "id": 42,
       "headline": "The Perimeter: 3 From Protest to Threat",
       "timestamp": "2026-01-17T13:16:00.000Z",
@@ -463,6 +474,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-17T14:00:10.275Z",
+  "lastUpdated": "2026-01-17T14:57:37.207Z",
   "version": "1.0"
 }
