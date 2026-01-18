@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 44,
+      "headline": "When Criticism Becomes Treason",
+      "timestamp": "2026-01-18T08:08:00.000Z",
+      "author": "Publius",
+      "preview": "One of Thomas Paine's most dangerous ideas was also one of his simplest: power must be allowed to be challenged.  In Common Sense, Paine did not merely argue against monarchy.  He argued against the n...",
+      "image": "images/2026/01/1768270119143.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-18&seq=01"
+    },
+    {
       "id": 43,
       "headline": "When Coercion Becomes Policy",
       "timestamp": "2026-01-17T14:57:35.418Z",
@@ -474,6 +485,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-17T14:57:37.207Z",
+  "lastUpdated": "2026-01-18T09:00:10.320Z",
   "version": "1.0"
 }
