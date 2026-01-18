@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 45,
+      "headline": "The Perimeter: 4 Building the Case for the Insurrection Act",
+      "timestamp": "2026-01-18T13:18:00.000Z",
+      "author": "Publius",
+      "preview": "How a Narrative of Hostility Creates Extraordinary Power  Extraordinary authority is rarely seized outright.  It is assembled.  Piece by piece.  Premise by premise.  Long before emergency powers are i...",
+      "image": "images/2026/01/1768504730533.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-18&seq=02"
+    },
+    {
       "id": 44,
       "headline": "When Criticism Becomes Treason",
       "timestamp": "2026-01-18T08:08:00.000Z",
@@ -485,6 +496,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-18T09:00:10.320Z",
+  "lastUpdated": "2026-01-18T14:00:10.803Z",
   "version": "1.0"
 }
