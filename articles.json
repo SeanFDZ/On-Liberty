@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 47,
+      "headline": "The Sanctity of the Threshold",
+      "timestamp": "2026-01-18T23:53:46.717Z",
+      "author": "Publius",
+      "preview": "The Constitution begins by placing limits on power before granting it.  Nowhere is that clearer than in the Fourth Amendment, which declares that the people shall be secure in their persons, houses, p...",
+      "image": "images/2026/01/1768780425431.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-18&seq=04"
+    },
+    {
       "id": 46,
       "headline": "When a government hides the truth about crimes against children: When the Law Is Declared Optional",
       "timestamp": "2026-01-18T10:50:00.000Z",
@@ -507,6 +518,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-18T23:51:03.240Z",
+  "lastUpdated": "2026-01-18T23:53:47.701Z",
   "version": "1.0"
 }
