@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 46,
+      "headline": "When a government hides the truth about crimes against children: When the Law Is Declared Optional",
+      "timestamp": "2026-01-18T10:50:00.000Z",
+      "author": "Publius",
+      "preview": "The question has now been answered.  It was not delay. It was not oversight. It was not caution.  It was refusal.  This weekend, the Attorney General stated in federal court filings that no law author...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-18&seq=03"
+    },
+    {
       "id": 45,
       "headline": "The Perimeter: 4 Building the Case for the Insurrection Act",
       "timestamp": "2026-01-18T13:18:00.000Z",
@@ -496,6 +507,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-18T14:00:10.803Z",
+  "lastUpdated": "2026-01-18T23:51:03.240Z",
   "version": "1.0"
 }
