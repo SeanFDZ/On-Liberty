@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 49,
+      "headline": "The Perimeter: 5 Power Without Restraint",
+      "timestamp": "2026-01-19T13:20:00.000Z",
+      "author": "Publius",
+      "preview": "Federal Forces, Declared Immunity, and the End of Accountability  Power becomes dangerous not when it is exercised, but when it is insulated.  Authority restrained by law behaves differently than auth...",
+      "image": "images/2026/01/1768504808425.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-19&seq=02"
+    },
+    {
       "id": 48,
       "headline": "A Republic Can Be Lost Without Being Overthrown",
       "timestamp": "2026-01-19T08:09:00.000Z",
@@ -529,6 +540,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-19T09:00:10.421Z",
+  "lastUpdated": "2026-01-19T14:00:10.385Z",
   "version": "1.0"
 }
