@@ -1,50 +1,6 @@
 {
   "articles": [
     {
-      "id": 53,
-      "headline": "Test Title 3",
-      "timestamp": "2026-01-19T19:17:12.243Z",
-      "author": "Publius",
-      "preview": "Test Essay 3...",
-      "image": "images/2026/01/1768850230860.png",
-      "source": "",
-      "sourceUrl": "",
-      "detailPage": "/article.html?date=2026-01-19&seq=06"
-    },
-    {
-      "id": 52,
-      "headline": "Test Title 2",
-      "timestamp": "2026-01-19T19:11:25.676Z",
-      "author": "Publius",
-      "preview": "Test Essay 2...",
-      "image": "images/2026/01/1768849884631.png",
-      "source": "",
-      "sourceUrl": "",
-      "detailPage": "/article.html?date=2026-01-19&seq=05"
-    },
-    {
-      "id": 51,
-      "headline": "Test Title",
-      "timestamp": "2026-01-19T19:02:09.834Z",
-      "author": "Publius",
-      "preview": "Test Essay...",
-      "image": "images/2026/01/1768849329173.jpg",
-      "source": "",
-      "sourceUrl": "",
-      "detailPage": "/article.html?date=2026-01-19&seq=04"
-    },
-    {
-      "id": 50,
-      "headline": "Test Title",
-      "timestamp": "2026-01-19T18:59:23.990Z",
-      "author": "Publius",
-      "preview": "Test Essay...",
-      "image": "images/2026/01/1768849163201.jpg",
-      "source": "",
-      "sourceUrl": "",
-      "detailPage": "/article.html?date=2026-01-19&seq=03"
-    },
-    {
       "id": 49,
       "headline": "The Perimeter: 5 Power Without Restraint",
       "timestamp": "2026-01-19T13:20:00.000Z",
