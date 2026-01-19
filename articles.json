@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 50,
+      "headline": "What the Founders Feared, But Never Lived to See",
+      "timestamp": "2026-01-19T21:27:21.009Z",
+      "author": "Publius",
+      "preview": "There is no precise analogue for this moment in the American Founding era.  No president threatened allied territory over wounded pride.  No executive tied personal grievance to national coercion in w...",
+      "image": "images/2026/01/1768858040027.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-19&seq=03"
+    },
+    {
       "id": 49,
       "headline": "The Perimeter: 5 Power Without Restraint",
       "timestamp": "2026-01-19T13:20:00.000Z",
@@ -540,6 +551,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-19T19:17:13.278Z",
+  "lastUpdated": "2026-01-19T21:27:22.090Z",
   "version": "1.0"
 }
