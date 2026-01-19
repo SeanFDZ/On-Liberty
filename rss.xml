@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 Jan 2026 09:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 10:00:06 GMT</lastBuildDate>
+    <item>
+      <title>A Republic Can Be Lost Without Being Overthrown</title>
+      <link>https://onliberty.press/article.html?date=2026-01-19&amp;seq=01</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-19&amp;seq=01</guid>
+      <pubDate>Mon, 19 Jan 2026 08:09:00 GMT</pubDate>
+      <description>The most dangerous political illusion is the belief that a republic falls only when it is attacked.  Thomas Paine knew better.  In Common Sense, Paine warned that liberty is not usually destroyed by d...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>The Sanctity of the Threshold</title>
       <link>https://onliberty.press/article.html?date=2026-01-18&amp;seq=04</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-10&amp;seq=01</guid>
       <pubDate>Sat, 10 Jan 2026 19:38:42 GMT</pubDate>
       <description>What Changed in the American Tolerance for Power?  In the decade before the Revolution, five deaths were treated as a political earthquake, not because of the body count, but because of the principle....</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>The Bullets Don’t Match the Story</title>
-      <link>https://onliberty.press/article.html?date=2026-01-08&amp;seq=01</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-08&amp;seq=01</guid>
-      <pubDate>Thu, 08 Jan 2026 18:00:00 GMT</pubDate>
-      <description>“Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.” -John Adams, Argument in Defense of t...</description>
       <author>Publius</author>
     </item>
   </channel>
