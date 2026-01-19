@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 48,
+      "headline": "A Republic Can Be Lost Without Being Overthrown",
+      "timestamp": "2026-01-19T08:09:00.000Z",
+      "author": "Publius",
+      "preview": "The most dangerous political illusion is the belief that a republic falls only when it is attacked.  Thomas Paine knew better.  In Common Sense, Paine warned that liberty is not usually destroyed by d...",
+      "image": "images/2026/01/1768270194196.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-19&seq=01"
+    },
+    {
       "id": 47,
       "headline": "The Sanctity of the Threshold",
       "timestamp": "2026-01-18T23:53:46.717Z",
@@ -518,6 +529,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-18T23:53:47.701Z",
+  "lastUpdated": "2026-01-19T09:00:10.421Z",
   "version": "1.0"
 }
