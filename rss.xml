@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 Jan 2026 18:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 19:00:06 GMT</lastBuildDate>
+    <item>
+      <title>Test Title</title>
+      <link>https://onliberty.press/article.html?date=2026-01-19&amp;seq=03</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-19&amp;seq=03</guid>
+      <pubDate>Mon, 19 Jan 2026 18:59:23 GMT</pubDate>
+      <description>Test Essay...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>The Perimeter: 5 Power Without Restraint</title>
       <link>https://onliberty.press/article.html?date=2026-01-19&amp;seq=02</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-12&amp;seq=02</guid>
       <pubDate>Mon, 12 Jan 2026 19:55:00 GMT</pubDate>
       <description>250 years ago, in January of 1776, Thomas Paine wrote words that unsettled an empire not because they were radical, but because they were clear.  He did not argue first about taxes or trade. He argued...</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>On the Matter of the 4th Amendment and Door to Door Searches</title>
-      <link>https://onliberty.press/article.html?date=2026-01-12&amp;seq=01</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-12&amp;seq=01</guid>
-      <pubDate>Mon, 12 Jan 2026 01:16:49 GMT</pubDate>
-      <description>Writs of Assistance  Before the American Revolution, British authorities relied on writs of assistance - open-ended search authorities that allowed officers to move house to house in search of contrab...</description>
       <author>Publius</author>
     </item>
   </channel>
