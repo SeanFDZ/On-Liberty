@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 51,
+      "headline": "The Perimeter: 6 Can a Place Be Too Hostile to Vote?",
+      "timestamp": "2026-01-20T13:21:00.000Z",
+      "author": "Publius",
+      "preview": "When Security Logic Collides With Democracy  Elections are often discussed as a matter of law.  Dates are set.  Procedures are written.  Rights are enumerated.  But elections are not sustained by text...",
+      "image": "images/2026/01/1768504890634.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-20&seq=01"
+    },
+    {
       "id": 50,
       "headline": "What the Founders Feared, But Never Lived to See",
       "timestamp": "2026-01-19T21:27:21.009Z",
@@ -551,6 +562,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-19T21:27:22.090Z",
+  "lastUpdated": "2026-01-20T14:00:43.463Z",
   "version": "1.0"
 }
