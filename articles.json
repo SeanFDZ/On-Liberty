@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 56,
+      "headline": "When the President Decides What \"Cause\" Means",
+      "timestamp": "2026-01-21T12:53:08.391Z",
+      "author": "Publius",
+      "preview": "I spent years in government service.  I learned early that certain institutions exist not to make governing easier, but to make it harder in specific, necessary ways.  The Federal Reserve is one of th...",
+      "image": "images/2026/01/1768999987447.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-21&seq=05"
+    },
+    {
       "id": 55,
       "headline": "They Came When We Called",
       "timestamp": "2026-01-21T03:49:36.510Z",
@@ -606,6 +617,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-21T03:49:37.660Z",
+  "lastUpdated": "2026-01-21T12:53:09.530Z",
   "version": "1.0"
 }
