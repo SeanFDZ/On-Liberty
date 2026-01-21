@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 58,
+      "headline": "When the Treasury Is Made Optional",
+      "timestamp": "2026-01-21T22:34:59.950Z",
+      "author": "Publius",
+      "preview": "There are many ways a republic ends. Few are as quiet as this one.  Not with tanks in the streets, not with decrees shouted from balconies, but with money moved just far enough away that the law can n...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-21&seq=07"
+    },
+    {
       "id": 57,
       "headline": "The Perimeter: 7 After the Polls Close",
       "timestamp": "2026-01-21T13:22:00.000Z",
@@ -628,6 +639,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-21T14:00:49.555Z",
+  "lastUpdated": "2026-01-21T22:35:01.347Z",
   "version": "1.0"
 }
