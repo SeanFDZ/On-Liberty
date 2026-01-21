@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 53,
+      "headline": "Greenland, NATO, and the Boundary of Power",
+      "timestamp": "2026-01-21T00:47:30.042Z",
+      "author": "Publius",
+      "preview": "The question was once hypothetical.  It is no longer.  In recent weeks, the President has revived and escalated claims over Greenland, a self-governing territory within the Kingdom of Denmark.  What b...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-21&seq=01"
+    },
+    {
       "id": 52,
       "headline": "Test Title",
       "timestamp": "2026-01-20T18:24:31.051Z",
@@ -573,6 +584,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-20T18:24:32.121Z",
+  "lastUpdated": "2026-01-21T00:47:32.346Z",
   "version": "1.0"
 }
