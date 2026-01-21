@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 53,
+      "headline": "When Prosecutors Become Instruments of Silence",
+      "timestamp": "2026-01-21T01:35:22.865Z",
+      "author": "Publius",
+      "preview": "The First Amendment was not written to protect polite agreement. It was written to protect resistance.  Not resistance of arms, but resistance of words. Not secrecy, but open dissent. Not whispers, bu...",
+      "image": "images/2026/01/1768959320101.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-21&seq=02"
+    },
+    {
       "id": 52,
       "headline": "Greenland, NATO, and the Boundary of Power",
       "timestamp": "2026-01-21T00:47:30.042Z",
@@ -573,6 +584,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-21T00:47:32.346Z",
+  "lastUpdated": "2026-01-21T01:35:24.432Z",
   "version": "1.0"
 }
