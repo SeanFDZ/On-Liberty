@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 54,
+      "headline": "When the Witnesses Are Removed",
+      "timestamp": "2026-01-21T03:00:41.170Z",
+      "author": "Publius",
+      "preview": "Custody, Silence, and the Oldest Abuse of Power  On January 3, 2026, Geraldo Lunas Campos, a 55-year-old Cuban national, died inside Camp East Montana at Fort Bliss, Texas.  He died in the custody of...",
+      "image": "images/2026/01/1768964439709.png",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-21&seq=03"
+    },
+    {
       "id": 53,
       "headline": "When Prosecutors Become Instruments of Silence",
       "timestamp": "2026-01-21T01:35:22.865Z",
@@ -584,6 +595,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-21T01:35:24.432Z",
+  "lastUpdated": "2026-01-21T03:00:42.719Z",
   "version": "1.0"
 }
