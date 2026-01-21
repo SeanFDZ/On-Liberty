@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 57,
+      "headline": "The Perimeter: 7 After the Polls Close",
+      "timestamp": "2026-01-21T13:22:00.000Z",
+      "author": "Publius",
+      "preview": "What Courts Can Fix, and What They Can't  In a constitutional system, courts are often described as the final safeguard.  When rights are violated, judges intervene.  When power overreaches, rulings c...",
+      "image": "images/2026/01/1768504958655.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-21&seq=06"
+    },
+    {
       "id": 56,
       "headline": "When the President Decides What \"Cause\" Means",
       "timestamp": "2026-01-21T12:53:08.391Z",
@@ -617,6 +628,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-21T12:53:09.530Z",
+  "lastUpdated": "2026-01-21T14:00:49.555Z",
   "version": "1.0"
 }
