@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 55,
+      "headline": "They Came When We Called",
+      "timestamp": "2026-01-21T03:49:36.510Z",
+      "author": "Publius",
+      "preview": "“We mutually pledge to each other our Lives, our Fortunes, and our sacred Honor.” - Declaration of Independence, 1776  On September 12, 2001, for the first and only time in its history, NATO invoked A...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-21&seq=04"
+    },
+    {
       "id": 54,
       "headline": "When the Witnesses Are Removed",
       "timestamp": "2026-01-21T03:00:41.170Z",
@@ -595,6 +606,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-21T03:00:42.719Z",
+  "lastUpdated": "2026-01-21T03:49:37.660Z",
   "version": "1.0"
 }
