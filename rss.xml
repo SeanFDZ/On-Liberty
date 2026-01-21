@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Jan 2026 22:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 23:00:06 GMT</lastBuildDate>
+    <item>
+      <title>When the Treasury Is Made Optional</title>
+      <link>https://onliberty.press/article.html?date=2026-01-21&amp;seq=07</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-21&amp;seq=07</guid>
+      <pubDate>Wed, 21 Jan 2026 22:34:59 GMT</pubDate>
+      <description>There are many ways a republic ends. Few are as quiet as this one.  Not with tanks in the streets, not with decrees shouted from balconies, but with money moved just far enough away that the law can n...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>The Perimeter: 7 After the Polls Close</title>
       <link>https://onliberty.press/article.html?date=2026-01-21&amp;seq=06</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-16&amp;seq=02</guid>
       <pubDate>Fri, 16 Jan 2026 13:15:00 GMT</pubDate>
       <description>Why Federal Power Moves Toward Resistance, Not Risk  If immigration enforcement were guided by risk, it would follow predictable paths.  It would concentrate where undocumented populations are largest...</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>The Law Must Bind Power, or It Binds No One</title>
-      <link>https://onliberty.press/article.html?date=2026-01-16&amp;seq=01</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-16&amp;seq=01</guid>
-      <pubDate>Fri, 16 Jan 2026 08:05:00 GMT</pubDate>
-      <description>One of Thomas Paine&apos;s clearest insights was also one of his most unsettling: laws that restrain only the people are not laws at all.  They are commands.  In Common Sense, Paine argued that the legitim...</description>
       <author>Publius</author>
     </item>
   </channel>
