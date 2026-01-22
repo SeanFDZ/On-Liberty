@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 59,
+      "headline": "When a President Stops Joking",
+      "timestamp": "2026-01-22T00:27:22.571Z",
+      "author": "Publius",
+      "preview": "“The accumulation of all powers, legislative, executive, and judiciary, in the same hands, whether of one, a few, or many, and whether hereditary, self-appointed, or elective, may justly be pronounced...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-22&seq=01"
+    },
+    {
       "id": 58,
       "headline": "When the Treasury Is Made Optional",
       "timestamp": "2026-01-21T22:34:59.950Z",
@@ -639,6 +650,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-21T22:35:01.347Z",
+  "lastUpdated": "2026-01-22T00:27:23.694Z",
   "version": "1.0"
 }
