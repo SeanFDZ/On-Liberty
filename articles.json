@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 61,
+      "headline": "The Verdict Before the Inquiry",
+      "timestamp": "2026-01-24T19:05:57.133Z",
+      "author": "Publius",
+      "preview": "\"In framing a government which is to be administered by men over men, the great difficulty lies in this: you must first enable the government to control the governed; and in the next place oblige it t...",
+      "image": "images/2026/01/1769281556406.jpg",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-24&seq=01"
+    },
+    {
       "id": 60,
       "headline": "The Perimeter: 8 Power Tests the Perimeter",
       "timestamp": "2026-01-22T13:23:00.000Z",
@@ -661,6 +672,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-22T14:00:49.540Z",
+  "lastUpdated": "2026-01-24T19:05:58.186Z",
   "version": "1.0"
 }
