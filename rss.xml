@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 Jan 2026 19:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 20:00:06 GMT</lastBuildDate>
+    <item>
+      <title>The Verdict Before the Inquiry</title>
+      <link>https://onliberty.press/article.html?date=2026-01-24&amp;seq=01</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-24&amp;seq=01</guid>
+      <pubDate>Sat, 24 Jan 2026 19:05:57 GMT</pubDate>
+      <description>&quot;In framing a government which is to be administered by men over men, the great difficulty lies in this: you must first enable the government to control the governed; and in the next place oblige it t...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>The Perimeter: 8 Power Tests the Perimeter</title>
       <link>https://onliberty.press/article.html?date=2026-01-22&amp;seq=02</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-17&amp;seq=03</guid>
       <pubDate>Sat, 17 Jan 2026 13:16:00 GMT</pubDate>
       <description>How Peaceful Dissent Became &quot;Domestic Terrorism&quot;  Public power rarely announces itself all at once.  It arrives in stages, first in language, then in posture, and only later in action.  The most impor...</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>When Power Turns Its Weapons Inward</title>
-      <link>https://onliberty.press/article.html?date=2026-01-17&amp;seq=02</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-17&amp;seq=02</guid>
-      <pubDate>Sat, 17 Jan 2026 08:07:00 GMT</pubDate>
-      <description>Thomas Paine understood something that republics often forget: governments arm themselves against enemies, not citizens.  In Common Sense, Paine warned that the use of force within a society is not a...</description>
       <author>Publius</author>
     </item>
   </channel>
