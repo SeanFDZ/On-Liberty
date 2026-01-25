@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 62,
+      "headline": "Law Alone Cannot Save a Republic",
+      "timestamp": "2026-01-25T15:44:17.600Z",
+      "author": "Publius",
+      "preview": "There is a comforting belief Americans return to whenever events turn dark:  the law will stop this.  Courts will intervene. The Constitution will hold. Institutions will correct course.  This belief...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-25&seq=01"
+    },
+    {
       "id": 61,
       "headline": "The Verdict Before the Inquiry",
       "timestamp": "2026-01-24T19:05:57.133Z",
@@ -672,6 +683,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-24T19:05:58.186Z",
+  "lastUpdated": "2026-01-25T15:44:18.719Z",
   "version": "1.0"
 }
