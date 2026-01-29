@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 63,
+      "headline": "When the State Explains a Killing",
+      "timestamp": "2026-01-29T00:38:35.437Z",
+      "author": "Publius",
+      "preview": "Multiple public videos show Alex Pretti was knocked to the ground by federal agents. He was struck in the head multiple times while down. His holstered firearm was removed by those agents. He lay face...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-29&seq=01"
+    },
+    {
       "id": 62,
       "headline": "Law Alone Cannot Save a Republic",
       "timestamp": "2026-01-25T15:44:17.600Z",
@@ -683,6 +694,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-25T15:44:18.719Z",
+  "lastUpdated": "2026-01-29T00:38:36.477Z",
   "version": "1.0"
 }
