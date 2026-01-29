@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 64,
+      "headline": "On Ransom, Retribution, and the Machinery of Control",
+      "timestamp": "2026-01-29T13:29:07.264Z",
+      "author": "Publius",
+      "preview": "On Wednesday, FBI agents in ballistic vests entered the Fulton County Election Hub in Georgia with a federal warrant.  They loaded materials into trucks.  They seized records from an election held mor...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-29&seq=02"
+    },
+    {
       "id": 63,
       "headline": "When the State Explains a Killing",
       "timestamp": "2026-01-29T00:38:35.437Z",
@@ -694,6 +705,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-29T00:38:36.477Z",
+  "lastUpdated": "2026-01-29T13:29:08.661Z",
   "version": "1.0"
 }
