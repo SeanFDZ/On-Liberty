@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 65,
+      "headline": "On the Family Ledger",
+      "timestamp": "2026-01-30T20:57:56.006Z",
+      "author": "Publius",
+      "preview": "We have no Government armed with Power capable of contending with human Passions unbridled by morality and Religion.  Avarice, Ambition, Revenge or Gallantry, would break the strongest Cords of our Co...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-30&seq=01"
+    },
+    {
       "id": 64,
       "headline": "On Ransom, Retribution, and the Machinery of Control",
       "timestamp": "2026-01-29T13:29:07.264Z",
@@ -705,6 +716,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-29T13:29:08.661Z",
+  "lastUpdated": "2026-01-30T20:57:57.153Z",
   "version": "1.0"
 }
