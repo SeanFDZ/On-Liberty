@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 66,
+      "headline": "On the Duty of Refusal",
+      "timestamp": "2026-01-31T06:07:00.000Z",
+      "author": "Publius",
+      "preview": "Tis the business of little minds to shrink; but he whose heart is firm, and whose conscience approves his conduct, will pursue his principles unto death.  - Thomas Paine, The American Crisis, December...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-01-31&seq=01"
+    },
+    {
       "id": 65,
       "headline": "On the Family Ledger",
       "timestamp": "2026-01-30T20:57:56.006Z",
@@ -716,6 +727,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-30T20:57:57.153Z",
+  "lastUpdated": "2026-01-31T07:00:49.484Z",
   "version": "1.0"
 }
