@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 67,
+      "headline": "The Great Writ and the Death of Due Process",
+      "timestamp": "2026-02-01T18:42:25.028Z",
+      "author": "Publius",
+      "preview": "The collapse of a constitutional order does not usually announce itself with tanks in the streets.  More often it arrives dressed in paperwork, routinized, procedural, filed on a Saturday afternoon....",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-02-01&seq=01"
+    },
+    {
       "id": 66,
       "headline": "On the Duty of Refusal",
       "timestamp": "2026-01-31T06:07:00.000Z",
@@ -727,6 +738,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-01-31T07:00:49.484Z",
+  "lastUpdated": "2026-02-01T18:42:26.200Z",
   "version": "1.0"
 }
