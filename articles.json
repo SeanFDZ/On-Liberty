@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 68,
+      "headline": "When Power Seeks the Ballot",
+      "timestamp": "2026-02-04T01:44:28.062Z",
+      "author": "Publius",
+      "preview": "The accumulation of all powers, legislative, executive, and judiciary, in the same hands, whether of one, a few, or many, and whether hereditary, self-appointed, or elective, may justly be pronounced...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-02-04&seq=01"
+    },
+    {
       "id": 67,
       "headline": "The Great Writ and the Death of Due Process",
       "timestamp": "2026-02-01T18:42:25.028Z",
@@ -738,6 +749,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-02-01T18:42:26.200Z",
+  "lastUpdated": "2026-02-04T01:44:29.253Z",
   "version": "1.0"
 }
