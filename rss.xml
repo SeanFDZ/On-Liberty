@@ -6,7 +6,15 @@
     <description>Political essays in the rhetorical tradition of 1750-1789 liberty writers, addressing contemporary events through an 18th-century philosophical lens.</description>
     <language>en-us</language>
     <atom:link href="https://onliberty.press/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Feb 2026 01:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 02:00:06 GMT</lastBuildDate>
+    <item>
+      <title>When Power Seeks the Ballot</title>
+      <link>https://onliberty.press/article.html?date=2026-02-04&amp;seq=01</link>
+      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-02-04&amp;seq=01</guid>
+      <pubDate>Wed, 04 Feb 2026 01:44:28 GMT</pubDate>
+      <description>The accumulation of all powers, legislative, executive, and judiciary, in the same hands, whether of one, a few, or many, and whether hereditary, self-appointed, or elective, may justly be pronounced...</description>
+      <author>Publius</author>
+    </item>
     <item>
       <title>The Great Writ and the Death of Due Process</title>
       <link>https://onliberty.press/article.html?date=2026-02-01&amp;seq=01</link>
@@ -157,14 +165,6 @@
       <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-19&amp;seq=02</guid>
       <pubDate>Mon, 19 Jan 2026 13:20:00 GMT</pubDate>
       <description>Federal Forces, Declared Immunity, and the End of Accountability  Power becomes dangerous not when it is exercised, but when it is insulated.  Authority restrained by law behaves differently than auth...</description>
-      <author>Publius</author>
-    </item>
-    <item>
-      <title>A Republic Can Be Lost Without Being Overthrown</title>
-      <link>https://onliberty.press/article.html?date=2026-01-19&amp;seq=01</link>
-      <guid isPermaLink="true">https://onliberty.press/article.html?date=2026-01-19&amp;seq=01</guid>
-      <pubDate>Mon, 19 Jan 2026 08:09:00 GMT</pubDate>
-      <description>The most dangerous political illusion is the belief that a republic falls only when it is attacked.  Thomas Paine knew better.  In Common Sense, Paine warned that liberty is not usually destroyed by d...</description>
       <author>Publius</author>
     </item>
   </channel>
