@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 69,
+      "headline": "The Second Front Against the Vote",
+      "timestamp": "2026-02-05T18:25:00.000Z",
+      "author": "Publius",
+      "preview": "No free government, or the blessings of liberty, can be preserved to any people, but by a firm adherence to justice, moderation, temperance, frugality, and virtue, and by a frequent recurrence to fund...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-02-05&seq=01"
+    },
+    {
       "id": 68,
       "headline": "When Power Seeks the Ballot",
       "timestamp": "2026-02-04T01:44:28.062Z",
@@ -749,6 +760,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-02-04T01:44:29.253Z",
+  "lastUpdated": "2026-02-05T18:26:39.993Z",
   "version": "1.0"
 }
