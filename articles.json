@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": 70,
+      "headline": "On What Binds Us",
+      "timestamp": "2026-02-08T22:24:28.384Z",
+      "author": "Publius",
+      "preview": "The cause of America and of liberty is the cause of every virtuous American citizen; whatever may be his religion or his descent, the united colonies know no distinction but such as slavery, corruptio...",
+      "image": "",
+      "source": "",
+      "sourceUrl": "",
+      "detailPage": "/article.html?date=2026-02-08&seq=01"
+    },
+    {
       "id": 69,
       "headline": "The Second Front Against the Vote",
       "timestamp": "2026-02-05T18:25:00.000Z",
@@ -760,6 +771,6 @@
       "detailPage": "/article.html?date=2025-11-06&seq=01"
     }
   ],
-  "lastUpdated": "2026-02-05T18:26:39.993Z",
+  "lastUpdated": "2026-02-08T22:24:29.469Z",
   "version": "1.0"
 }
